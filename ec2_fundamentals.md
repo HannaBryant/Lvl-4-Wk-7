@@ -3,7 +3,8 @@
 1.) Explain why Amazon EC2 stands for "Elastic Compute Cloud." What does the word elastic specifically refer to in cloud architecture? EC2 stands for "Elastic Compute Cloud" because it delivers flexible, on demand virtual computing power. Elastic refers to its ability to scale and compute resources up or down on demand.
 
 2.) Name and describe the four essential infrastructure features provided by EC2 that classify it as Infrastructure as a Service (IaaS).
-     --) It provides virtual machines, which are the EC2 instances. A computer running virtually inside of a data center than physically on a desk.
+
+    --) It provides virtual machines, which are the EC2 instances. A computer running virtually inside of a data center than physically on a desk.
 
     --) It stores data on virtual storage units (EBS - Elastic Block Store) where you can choose the type of disk, SSD or HDD.
 
