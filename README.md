@@ -1,2 +1,2 @@
 # Lvl-4-Wk-7
-Understanding AWS
+This project was about understanding AWS. All txt/md files are questions about AWS that were completed for a graded assignment.
